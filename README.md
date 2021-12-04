@@ -13,18 +13,21 @@
 
 
 ## 💻 Projeto
+<br>
 
-Projeto desevolvido na *6ª edição do NLW together rocketseat*. 
+#### Projeto desevolvido na *6ª edição do NLW together rocketseat*. 
 
-Com esse projeto, tive a oportunidade de pratircar / aprender desenvolvendo um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa técnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤
+##### Com esse projeto, tive a oportunidade de pratircar / aprender desenvolvendo um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa técnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤 
 
-*Obs*: Não tive como reenventar / modificar o projeto, e sim me servir como complemento ao meu estudo. 
+##### *Obs*: Minhta intenção para esse projeto por enquanto não é reenventar / modifica-lo, e sim me servir como complemento ao meu estudo.  
 
-Obrigado, Rocketseat 🚀   em Especial o Professor: *Rodrigo Gonçalves S.*
+Obrigado, Rocketseat 🚀   em Especial o Professor: *Rodrigo Gonçalves S.❤️*
+<br><br>
 
 
-## Sobre o APP  (infos retiradas do projeto Original do curso).
-Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
+## 📎 Sobre o APP 📎<br>
+Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord. *(infos retiradas do projeto Original do curso)*
+<br><br>
 
 
 ## :hammer_and_wrench: Features 
