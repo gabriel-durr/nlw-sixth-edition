@@ -17,7 +17,7 @@
 
 #### Projeto desevolvido na *6ª edição do NLW together rocketseat*. 
 
-##### Com esse projeto, tive a oportunidade de pratircar / aprender desenvolvendo um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa técnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤 
+#### Com esse projeto, tive a oportunidade de praticar com desenvolvendo de um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa técnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤 
 
 ##### *Obs*: Minhta intenção para esse projeto por enquanto não é reenventar / modifica-lo, e sim me servir como complemento ao meu estudo.  
 
