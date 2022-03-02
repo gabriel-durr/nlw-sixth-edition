@@ -17,11 +17,10 @@
 
 #### Projeto desevolvido na *6ª edição do NLW together rocketseat*. 
 
-#### Com esse projeto, tive a oportunidade de praticar com desenvolvendo de um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa tecnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤 
+#### Com esse projeto tive a oportunidade de praticar RN, com desenvolvimento de um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa tecnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤 
 
-##### *Obs*: Minhta intenção para esse projeto por enquanto não é reenventar / modifica-lo, e sim me servir como complemento ao meu estudo.  
 
-Obrigado, Rocketseat 🚀   em Especial o Professor: *Rodrigo Gonçalves S.❤️*
+Agradecimento à Rocketseat e Professor: *Rodrigo Gonçalves S. 🚀*
 <br><br>
 
 
@@ -32,35 +31,35 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 
 ## :hammer_and_wrench: Features 
 
--   [ ] Autenticação Social OAuth2 com servidor do Discord.
--   [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
--   [ ] Lista os servidores do Discord que o usuário faz parte;
--   [ ] Permite realizar o agendamento de partidas;
--   [ ] Permite filtrar as partidas por categoria;
--   [ ] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
--   [ ] Compartilha o convite para ingressar no servidor do usuário;
--   [ ] Permite redirecionar o usuário para o seu próprio servidor;
--   [ ] Disponibiliza a função de Logout.
+-    Autenticação Social OAuth2 com servidor do Discord.
+-    Obtém perfil do usuário cadastro no Discord (username e avatar);
+-    Lista os servidores do Discord que o usuário faz parte;
+-    Permite realizar o agendamento de partidas;
+-    Permite filtrar as partidas por categoria;
+-   Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
+-    Compartilha o convite para ingressar no servidor do usuário;
+-    Permite redirecionar o usuário para o seu próprio servidor;
+-    Disponibiliza a função de Logout.
 
 
 ## ✨ Tecnologias
 
--   [ ] React Native
--   [ ] Typescript
--   [ ] Expo
--   [ ] Context API
--   [ ] Async Storage
--   [ ] Vector Icons
--   [ ] React Native Svg e Svg Transform
--   [ ] Axios
--   [ ] Gradient colors
--   [ ] OAuth2 Discord 
--   [ ] Expo Google Fonts
--   [ ] React Navigation Stack
--   [ ] React Native Gesture Handler
--   [ ] Expo Authentication
--   [ ] React Native Share
--   [ ] Deep Link
+-    React Native
+-    Typescript
+-   Expo
+-    Context API
+-    Async Storage
+-    Vector Icons
+-    React Native Svg e Svg Transform
+-    Axios
+-    Gradient colors
+-    OAuth2 Discord 
+-    Expo Google Fonts
+-    React Navigation Stack
+-    React Native Gesture Handler
+-    Expo Authentication
+-    React Native Share
+-    Deep Link
 
 
 ## 🔖 Layout do Projeto Original
