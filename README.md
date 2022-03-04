@@ -11,7 +11,6 @@
 
 ![cover](.github/cover.png?style=flat)
 
-
 ## 💻 Projeto
 <br>
 
