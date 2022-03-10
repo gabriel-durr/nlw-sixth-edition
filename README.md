@@ -9,36 +9,13 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+
 
 ## 💻 Projeto
 <br>
 
 #### Projeto desevolvido na *6ª edição do NLW together rocketseat*. 
 
-#### Com esse projeto tive a oportunidade de praticar RN, com desenvolvimento de um app para jogos, que tem intregação ao discord.  Foi construido utilizando React native  (Expo Cli).  De cara amei essa tecnologia e com toda certeza, irei me especializar nela um dia ⚛️🖤 
-
-
-Agradecimento à Rocketseat e Professor: *Rodrigo Gonçalves S. 🚀*
-<br><br>
-
-
-## 📎 Sobre o APP 📎<br>
-Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord. *(infos retiradas do projeto Original do curso)*
-<br><br>
-
-
-## :hammer_and_wrench: Features 
-
--    Autenticação Social OAuth2 com servidor do Discord.
--    Obtém perfil do usuário cadastro no Discord (username e avatar);
--    Lista os servidores do Discord que o usuário faz parte;
--    Permite realizar o agendamento de partidas;
--    Permite filtrar as partidas por categoria;
--   Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
--    Compartilha o convite para ingressar no servidor do usuário;
--    Permite redirecionar o usuário para o seu próprio servidor;
--    Disponibiliza a função de Logout.
 
 
 ## ✨ Tecnologias
@@ -87,8 +64,4 @@ CDN_IMAGE=
 ```
 
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-<br />
+#
