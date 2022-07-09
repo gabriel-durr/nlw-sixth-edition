@@ -10,14 +10,14 @@
 
 
 
-## 💻 Projeto
+## 💻 Project
 <br>
 
-#### Projeto desevolvido na *6ª edição do NLW together rocketseat*. 
+#### Project developed in the *6th edition of the NLW together rocketseat*.
 
 
 
-## ✨ Tecnologias
+## ✨ Techs
 
 -    React Native
 -    Typescript
@@ -37,22 +37,21 @@
 -    Deep Link
 
 
-## 🔖 Layout do Projeto Original
+## 🔖 Original Project Layout
 
 [linkLayout](https://www.figma.com/community/file/991338130828322960). (necessário ter conta no [Figma](http://figma.com/) para acessá-lo).
 
 
-## Executando o projeto
+## running the project
 
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
+**yarn** or **npm install** To install project dependencies.
+Then start the project.
 
 ```cl
 expo start
 ```
 
-Necessário crar App no servidor do Discord para obter as credencias de autenticação.
- Depois basta aterar no arquivo .env as configurações do seu App.
+Need to create App on Discord server to get authentication credentials. Then just change the settings of your App in the .env file.
  
  ```cl
 REDIRECT_URI=
